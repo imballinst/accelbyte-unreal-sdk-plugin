@@ -1,0 +1,25 @@
+var classAccelByte_1_1Api_1_1CloudSave =
+[
+    [ "BulkGetGameRecords", "classAccelByte_1_1Api_1_1CloudSave.html#adb0e3d0c1fb61307c44b2f7cc6590ca6", null ],
+    [ "BulkGetOtherPlayerPublicRecordKeys", "classAccelByte_1_1Api_1_1CloudSave.html#a2fae67bed20f1dc0018ebecfe44bd03d", null ],
+    [ "BulkGetOtherPlayerPublicRecords", "classAccelByte_1_1Api_1_1CloudSave.html#a5de7089482566e440955b605e1485011", null ],
+    [ "BulkGetPublicUserRecord", "classAccelByte_1_1Api_1_1CloudSave.html#a2fc9942cb5be6bf6f95e87a0ab89ec25", null ],
+    [ "BulkGetUserRecords", "classAccelByte_1_1Api_1_1CloudSave.html#ad40a07c0a661d9b5ad7c7756870f2047", null ],
+    [ "DeleteGameRecord", "classAccelByte_1_1Api_1_1CloudSave.html#a9aa4b3908198afde8e17807af67ebc71", null ],
+    [ "DeleteUserRecord", "classAccelByte_1_1Api_1_1CloudSave.html#a81cd205f41f92c33deac92c3d8565e9e", null ],
+    [ "GetGameRecord", "classAccelByte_1_1Api_1_1CloudSave.html#a1645414614ca5144d520e3fa795c774a", null ],
+    [ "GetPublicUserRecord", "classAccelByte_1_1Api_1_1CloudSave.html#a9bf693b78dace91b3c364d16fdd994f3", null ],
+    [ "GetUserRecord", "classAccelByte_1_1Api_1_1CloudSave.html#a86c3118dd6b4ad1b5c46f7a889ff50f7", null ],
+    [ "ReplaceGameRecord", "classAccelByte_1_1Api_1_1CloudSave.html#aecaae3b9d5daf97c392b6fbf0f3850f7", null ],
+    [ "ReplaceGameRecordCheckLatest", "classAccelByte_1_1Api_1_1CloudSave.html#a1e15b274587541b27d33367d740b24d0", null ],
+    [ "ReplaceGameRecordCheckLatest", "classAccelByte_1_1Api_1_1CloudSave.html#a8d0a0bbbba86b9b55bf6d43ccdb21b1c", null ],
+    [ "ReplaceUserRecord", "classAccelByte_1_1Api_1_1CloudSave.html#a0588c4062cc5a9b9044c32e71657c698", null ],
+    [ "ReplaceUserRecord", "classAccelByte_1_1Api_1_1CloudSave.html#a356819ab0eb6dc76fbc6cff33cdd5028", null ],
+    [ "ReplaceUserRecordCheckLatest", "classAccelByte_1_1Api_1_1CloudSave.html#a21888e2731a3afde9f24f506a0ccc143", null ],
+    [ "ReplaceUserRecordCheckLatest", "classAccelByte_1_1Api_1_1CloudSave.html#a9a9e256e5091e9259ac07210a19525bb", null ],
+    [ "ReplaceUserRecordCheckLatest", "classAccelByte_1_1Api_1_1CloudSave.html#a70aa54b396a37fe3b18448767af6b79b", null ],
+    [ "ReplaceUserRecordCheckLatest", "classAccelByte_1_1Api_1_1CloudSave.html#aaf2f24afa7137ca39cccdc7ddeac10be", null ],
+    [ "SaveGameRecord", "classAccelByte_1_1Api_1_1CloudSave.html#a5ae6d6282a16bacd6a563f4bce50a449", null ],
+    [ "SaveUserRecord", "classAccelByte_1_1Api_1_1CloudSave.html#a64722bc77c3e6522a685134797d97bc9", null ],
+    [ "SaveUserRecord", "classAccelByte_1_1Api_1_1CloudSave.html#a37d6e95a93f2885685b19cff798665ad", null ]
+];
