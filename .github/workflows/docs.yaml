@@ -20,7 +20,10 @@ jobs:
           curl -o doxygen.tar.gz https://www.doxygen.nl/files/doxygen-1.10.0.linux.bin.tar.gz
           gunzip doxygen.tar.gz
           tar xf doxygen.tar
+          ls -al
           alias doxygen=$(pwd)/doxygen-1.10.0/bin/doxygen
+          which doxygen
+          $(pwd)/doxygen-1.10.0/bin/doxygen --help
           doxygen doxygen.config
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
